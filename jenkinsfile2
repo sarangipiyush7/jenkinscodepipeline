@@ -20,6 +20,7 @@ pipeline{
                 pwd
                 date
                 cal 1998
+                '''
             }
            
         }
